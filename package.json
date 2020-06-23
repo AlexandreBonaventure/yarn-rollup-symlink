@@ -1,0 +1,7 @@
+{
+  "name": "yarn-vite-bug",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

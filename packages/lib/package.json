@@ -1,0 +1,11 @@
+{
+  "name": "lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "vue": "^3.0.0-beta.15"
+  },
+  "dependencies": {
+    "focus-trap": "5.1.0",
+    "nanoid-esm": "^2.1.0-esm.4"
+  }
+}
